@@ -1,0 +1,9 @@
+[project]
+name = "mimo-orbit-agent-lab"
+version = "0.1.0"
+description = "Multi-agent civic content workflow for Xiaomi MiMo evaluation"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
