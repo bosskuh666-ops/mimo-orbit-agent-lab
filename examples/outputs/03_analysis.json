@@ -1,0 +1,29 @@
+{
+  "thesis": "Pengetatan subsidi BBM 2026 lewat skema NIK punya logika fiskal yang kuat (penghematan ~Rp 14,5 T/tahun) tapi risiko transisi tinggi: 22% rakyat dewasa belum punya NIK aktif terverifikasi, sistem MyPertamina belum stabil di luar Jawa, dan historis 2022 menunjukkan kenaikan BBM langsung mengangkat inflasi inti 1,2 poin dalam 3 bulan. Kebijakan ini tepat secara prinsip, tapi pelaksanaan butuh fase pilot 6 bulan dan jaring pengaman BLT BBM yang lebih luas dari sekedar 40% terbawah.",
+  "historical_context": [
+    "2022: kenaikan Pertalite Rp 7.650→10.000 mendongkrak inflasi inti dari 2,1% (Aug) ke 3,3% (Sep)",
+    "2023: subsidi energi total Rp 211 T, tertinggi sejak 2014",
+    "2024: pemerintah mulai uji coba MyPertamina di 16 kota; coverage 78%",
+    "2025: konsumsi Pertalite over-kuota 0,8 juta KL, defisit subsidi Rp 8 T",
+    "2025: BLT BBM 2022 (kenaikan harga) cair ke 20,7 juta KPM total Rp 12,4 T"
+  ],
+  "second_order_effects": [
+    "Tarif ojol naik 8-12% bila tidak ada skema khusus → daya beli kelas menengah-bawah turun",
+    "Inflasi inti diproyeksi naik 0,8-1,1 poin dalam 6 bulan pertama transisi",
+    "Logistik UMKM terdampak: ongkos kirim naik 5-7%, margin tipis tergerus",
+    "Demand mobil listrik dan transportasi publik berpotensi naik 15-20% di kota tier-1"
+  ],
+  "stakeholders": [
+    {"group": "rakyat 40% terbawah", "impact": "mixed", "reasoning": "kena kenaikan harga tapi dapat BLT BBM kompensasi"},
+    {"group": "kelas menengah (40-80%)", "impact": "negative", "reasoning": "tidak dapat subsidi tidak dapat BLT, daya beli langsung tergerus"},
+    {"group": "pengemudi ojol", "impact": "negative", "reasoning": "biaya operasional naik tanpa skema khusus"},
+    {"group": "APBN", "impact": "positive", "reasoning": "penghematan ~Rp 14,5 T/tahun"},
+    {"group": "industri EV", "impact": "positive", "reasoning": "demand naik 15-20% di kota tier-1"}
+  ],
+  "data_quality_flags": [
+    "angka Rp 89,8 T belum dikonfirmasi rilis resmi DPR final",
+    "coverage NIK aktif 78% perlu diverifikasi via Dukcapil terbaru",
+    "tarif ojol 8-12% asumsi internal, perlu sumber GoTo/Grab"
+  ],
+  "rakyat_framing": "Kalau jadi diberlakukan, yang paling kena bukan orang kaya tapi kelas menengah pas-pasan: gak dapet BLT karena dianggap 'mampu', tapi tetep harus bayar BBM lebih mahal. Ujung-ujungnya tarif ojol naik, kiriman barang naik, harga di pasar naik. Subsidi tepat sasaran ide bagus, tapi kalau gak ada jaring pengaman buat menengah, tujuan baiknya bisa balik nyakitin rakyat."
+}

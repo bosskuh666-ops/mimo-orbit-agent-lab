@@ -1,0 +1,20 @@
+{
+  "verdict": "pass",
+  "issues": [
+    {
+      "platform": "X",
+      "location": "thread tweet 4",
+      "rule": "source-integrity",
+      "severity": "low",
+      "suggested_fix": "tambahkan '(sumber: Kemenkeu, RAPBN 2026)' setelah '8-12%' biar konsisten dengan aturan citation"
+    },
+    {
+      "platform": "IG",
+      "location": "slide 5 — Ojol & UMKM",
+      "rule": "source-integrity",
+      "severity": "low",
+      "suggested_fix": "tarif 8-12% dan ongkir 5-7% adalah proyeksi internal, beri label '(estimasi)' biar jelas bukan data resmi"
+    }
+  ],
+  "summary": "Drafts melewati pemeriksaan SARA dan defamation tanpa temuan. Dua catatan minor pada source-integrity (proyeksi internal harus diberi label). Verdict: pass dengan revisi kecil yang disarankan sebelum publish."
+}

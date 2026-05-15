@@ -1,0 +1,45 @@
+{
+  "claims": [
+    {
+      "text": "Alokasi subsidi BBM 2026 sekitar Rp 89,8 triliun, turun ~14% dari Rp 104,3 triliun (2025).",
+      "source": "Kemenkeu - Nota Keuangan RAPBN 2026",
+      "status": "needs_verification",
+      "year": 2026
+    },
+    {
+      "text": "Konsumsi Pertalite 2025 mencapai ~32,5 juta KL, melebihi kuota awal 31,7 juta KL.",
+      "source": "BPH Migas",
+      "status": "needs_verification",
+      "year": 2025
+    },
+    {
+      "text": "Skema NIK akan terhubung ke 8.500+ SPBU melalui sistem MyPertamina.",
+      "source": "Pertamina Patra Niaga",
+      "status": "needs_verification",
+      "year": 2026
+    },
+    {
+      "text": "Inflasi inti 2022 saat Pertalite naik mencapai 3,30% YoY (Sep 2022).",
+      "source": "BPS - Berita Resmi Statistik",
+      "status": "verified",
+      "year": 2022
+    }
+  ],
+  "entities": [
+    {"name": "Kementerian ESDM", "role": "regulator energi"},
+    {"name": "BPH Migas", "role": "pengawas hilir migas"},
+    {"name": "Pertamina Patra Niaga", "role": "operator SPBU"},
+    {"name": "Komisi VII DPR", "role": "mitra kerja sektor energi"},
+    {"name": "Kementerian Keuangan", "role": "pengusul anggaran"}
+  ],
+  "key_dates": [
+    {"date": "2026-04-30", "event": "RAPBN 2026 diserahkan ke DPR"},
+    {"date": "2026-05-20", "event": "rapat panja energi Komisi VII"},
+    {"date": "2022-09-03", "event": "kenaikan harga Pertalite Rp 7.650 → Rp 10.000"}
+  ],
+  "open_questions": [
+    "Berapa coverage NIK aktif di KTP-el untuk dewasa pekerja?",
+    "Bagaimana SPBU di luar Jawa tanpa internet stabil?",
+    "Apakah ojol akan dapat tarif khusus?"
+  ]
+}

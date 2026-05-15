@@ -1,0 +1,36 @@
+{
+  "x_thread": [
+    "subsidi BBM 2026 mau dipangkas ~14% jadi Rp 89,8 T (sumber: Kemenkeu, RAPBN 2026). yang kena bukan cuma orang kaya — kelas menengah pas-pasan justru paling rawan. utas singkat. 🧵",
+    "1/ skema baru: penyaluran lewat NIK terkoneksi MyPertamina di 8.500+ SPBU (sumber: Pertamina, 2026). niat baiknya: tepat sasaran. tantangannya: 22% rakyat dewasa belum punya NIK aktif terverifikasi.",
+    "2/ historis 2022 ngajarin satu hal: pas Pertalite naik Rp 7.650→10.000, inflasi inti loncat dari 2,1% ke 3,3% dalam 1 bulan (sumber: BPS, Sep 2022). harga BBM naik selalu nyebar ke ongkir, pasar, ojol.",
+    "3/ kelas 40% terbawah masih ketolong BLT BBM. tapi 40-80% (kelas menengah) gak dapet apa-apa: gak disubsidi, gak ditolong. yang gajinya UMR pas-pasan kena 2 kali — BBM mahal + harga di pasar naik.",
+    "4/ ojol & UMKM logistik: tarif diproyeksi naik 8-12% kalau gak ada skema khusus. logistik UMKM bisa nambah ongkos 5-7%. margin tipis langsung tergerus.",
+    "5/ secara fiskal hemat Rp 14,5 T/tahun (sumber: Kemenkeu, RAPBN 2026). bagus buat APBN. tapi kalau gak ada fase pilot 6 bulan + jaring pengaman menengah, untungnya APBN jadi rugi rakyat.",
+    "6/ posisi gw: prinsipnya benar, eksekusinya butuh dewasa. pilot dulu 6 bulan di 5 provinsi, lebar BLT diperluas ke 60% bawah, tarif ojol diberi koridor khusus. baru rollout nasional.",
+    "yang setuju subsidi tepat sasaran tapi takut rakyat menengah jadi korban — RT biar diskusi naik. 🙏"
+  ],
+  "ig_carousel": [
+    {"slide": 1, "text": "SUBSIDI BBM 2026 DIPANGKAS\nRp 104,3 T → Rp 89,8 T\n(sumber: Kemenkeu, RAPBN 2026)"},
+    {"slide": 2, "text": "Skema baru: NIK + MyPertamina\n8.500+ SPBU terkoneksi\nNiat: tepat sasaran\nMasalah: 22% NIK belum aktif"},
+    {"slide": 3, "text": "Belajar dari 2022\nPertalite naik → inflasi inti\n2,1% → 3,3% (1 bulan)\n(sumber: BPS, Sep 2022)"},
+    {"slide": 4, "text": "Yang paling kena:\nKelas menengah pas-pasan\nGak dapet BLT, gak dapet subsidi\nBeli BBM mahal + harga pasar naik"},
+    {"slide": 5, "text": "Ojol & UMKM\nTarif naik 8-12%\nOngkir UMKM naik 5-7%\nMargin tipis tergerus"},
+    {"slide": 6, "text": "Posisi:\nPrinsipnya benar.\nButuh pilot 6 bulan dulu.\nBLT diperluas ke 60% bawah.\nKoridor khusus ojol.\nBaru rollout nasional."}
+  ],
+  "tiktok": {
+    "hook": "subsidi BBM mau dipangkas Rp 14 T — tapi yang paling kena justru kelas menengah pas-pasan, bukan orang kaya. ini alasannya.",
+    "script": "[0-3s] hook + visual angka Rp 14,5 T\n[3-8s] skema NIK + MyPertamina, 22% rakyat belum punya NIK aktif\n[8-15s] historis 2022: Pertalite naik, inflasi inti loncat 1,2 poin\n[15-22s] siapa yang kena: kelas menengah 40-80% — gak dapet BLT gak dapet subsidi\n[22-28s] dampak ojol UMKM: tarif naik 8-12%\n[28-30s] CTA: 'follow buat breakdown kebijakan tiap minggu'"
+  },
+  "yt_shorts": {
+    "hook": "Subsidi BBM 2026 dipangkas Rp 14 triliun. Kedengarannya bagus — sampai kamu sadar siapa yang sebenarnya kena.",
+    "script": "Pemerintah usulkan subsidi BBM turun dari Rp 104 T jadi Rp 89,8 T (sumber: Kemenkeu, RAPBN 2026). Skemanya pakai NIK lewat MyPertamina di 8.500 SPBU. Niatnya tepat sasaran. Masalahnya, 22% rakyat dewasa belum punya NIK aktif terverifikasi. Kita pernah ngalamin ini di 2022 — Pertalite naik, inflasi inti loncat dari 2,1% ke 3,3% dalam satu bulan (sumber: BPS, Sep 2022). Yang paling kena? Bukan orang kaya — mereka gak ngurus subsidi. Bukan juga 40% terbawah — mereka dapet BLT BBM. Tapi kelas menengah pas-pasan, 40-80%. Gak dapet subsidi, gak dapet BLT. Bayar BBM mahal, harga di pasar ikut naik. Posisi gw: prinsipnya benar, tapi butuh fase pilot 6 bulan dulu, BLT diperluas, tarif ojol diberi koridor. Baru rollout. Subsidi tepat sasaran tujuannya bagus — tapi kalau rakyat menengah jadi korban, niat baiknya balik nyakitin.",
+    "cues": [
+      "[0-3s] HOOK + chart turunnya angka",
+      "[3-15s] skema NIK + warning coverage",
+      "[15-30s] historis 2022 + grafik inflasi",
+      "[30-45s] siapa yang kena (3 kelas)",
+      "[45-55s] usulan: pilot + jaring pengaman",
+      "[55-60s] CTA subscribe"
+    ]
+  }
+}
